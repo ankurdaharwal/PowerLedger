@@ -3,10 +3,18 @@ A PowerLedger Smart Contract to request for a New Functionality and allow holder
 
 To setup the project:
 
-1) Clone the project using the following command: "git clone https://github.com/ankurdaharwal/PowerLedger"
+1) Clone the project using the following command:
 
-2) Install all project dependencies: "npm i"
+        git clone https://github.com/ankurdaharwal/PowerLedger
 
-3) Start a local network using ganache-cli: "ganache-cli"
+2) Install all project dependencies:
 
-4) Deploy the contracts using: "npm run start"
+        npm i
+
+3) Start a local network using ganache-cli:
+
+        ganache-cli
+
+4) Deploy the contracts using:
+
+        npm run start
