@@ -1,2 +1,2 @@
 # PowerLedger
-PowerLedger New Functionality Voting Smart Contract
+A PowerLedger Smart Contract to request for a New Functionality and allow holders to Vote for it's need.
