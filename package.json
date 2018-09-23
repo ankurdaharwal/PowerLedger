@@ -1,0 +1,32 @@
+{
+  "name": "powerledger",
+  "version": "1.0.0",
+  "description": "PowerLedger Functionality Request Voting Contract",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "start": "truffle migrate --network development",
+    "test": "truffle test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ankurdaharwal/PowerLedger.git"
+  },
+  "keywords": [
+    "PowerLedger",
+    "POWR",
+    "Smart",
+    "Contracts"
+  ],
+  "author": "Ankur Daharwal",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/ankurdaharwal/PowerLedger/issues"
+  },
+  "homepage": "https://github.com/ankurdaharwal/PowerLedger#readme",
+  "dependencies": {
+    "web3": "^1.0.0-beta.36"
+  }
+}
